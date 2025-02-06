@@ -16,7 +16,6 @@ const Public = () => {
                     <a href="tel:+15555555555">(555) 555-5555</a>
                 </address>
                 <br />
-                <h3>Welcome!</h3>
                 <p>Owner: Dan Davidson</p>
             </main>
             <footer>
